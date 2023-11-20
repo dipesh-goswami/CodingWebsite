@@ -6,3 +6,21 @@ img {
   height: 400px;
   object-fit: cover;
 }
+
+.jumbotron {
+  background: #6a6a6a;
+
+}
+
+
+.featurette {}
+
+.custom-control-input {
+  position: relative;
+  bottom: -1px;
+  left: 30px;
+}
+
+.custom-control-label-2 {
+  margin-left: 28px;
+}
